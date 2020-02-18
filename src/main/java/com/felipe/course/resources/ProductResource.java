@@ -13,7 +13,7 @@ import com.felipe.course.entities.Product;
 import com.felipe.course.services.ProductService;
 
 @RestController
-@RequestMapping(value = "/producties")
+@RequestMapping(value = "/products")
 public class ProductResource {
 
 	@Autowired
